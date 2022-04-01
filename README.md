@@ -4,6 +4,7 @@ I just need to update myself with knowledge of this tool and approach.
 Here is a [link to cheat sheet on Markdown language](https://www.markdownguide.org/cheat-sheet/) to write documents like this README.md file
 
 ---
-Добавил строку в master
-Добавил еще одну строку в master
+1. Добавил строку в master
+2. Добавил еще одну строку в master
 
+---
