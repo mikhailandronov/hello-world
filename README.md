@@ -8,4 +8,7 @@ Here is a [link to cheat sheet on Markdown language](https://www.markdownguide.o
 2. Добавил еще одну строку в master
 3. Добавил строку в edits
 4. Добавил еще одну строку в edits
+
 =======
+
+Добавил строку в Б2
