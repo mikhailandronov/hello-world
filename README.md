@@ -6,4 +6,4 @@ Here is a [link to cheat sheet on Markdown language](https://www.markdownguide.o
 ---
 Добавил строку в master
 Добавил еще одну строку в master
----
+
