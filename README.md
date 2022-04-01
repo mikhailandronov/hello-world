@@ -6,5 +6,6 @@ Here is a [link to cheat sheet on Markdown language](https://www.markdownguide.o
 ---
 1. Добавил строку в master
 2. Добавил еще одну строку в master
-
----
+3. Добавил строку в edits
+4. Добавил еще одну строку в edits
+=======
